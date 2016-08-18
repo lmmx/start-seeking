@@ -4,6 +4,6 @@ Start-seq is a recent technique from Karen Adelman's lab (see: [Scruggs et al. 2
 
 This work analyses MEF cells from the Adelman lab, using notes in a Wiki format to assist the research synthesis process, and make the output of this Masters project potentially accessible/extensible in the future.
 
-Louis Maddox
-University of Manchester
-Research project being prepared for the MSc in Bioinformatics and Systems Biology at the University of Manchester.
+Louis Maddox  
+University of Manchester  
+Research towards MSc Bioinformatics and Systems Biology, 2016
